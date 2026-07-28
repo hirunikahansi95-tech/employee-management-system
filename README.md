@@ -1,4 +1,4 @@
-README.md එකට paste කරන්න මේක විතරක් copy කරන්න 👇
+
 
 ```markdown
 # Employee Management System 👨‍💼
